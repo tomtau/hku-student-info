@@ -10,3 +10,5 @@ This document is free to be edited by anyone, like Wikipedia, so that it is alwa
 
 3\) **BE HONEST!** Imagine if you were to give advice to yourself when you first arrived in Hong Kong and started your degree.
 
+[![cc-by-nc-sa](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "CC BY-NC-SA 4.0 License")](https://github.com/tomtau/hku-student-info/blob/master/LICENSE)
+
